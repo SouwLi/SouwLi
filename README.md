@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouwLi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in data science field
+- 🌱 I’m currently learning programming at Pacmann
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me solihinkimiaitb@gmail.com
 - 😄 Pronouns: ...
